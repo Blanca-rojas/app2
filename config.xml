@@ -5,10 +5,10 @@ xmlns:gap ="http://phonegap.com/ns/1.0"
 id ="com.phonegap.app2"
 version ="1.0.0">
 
-<name> app2-Especialidad Tecnico en Programacion </name>
+<name> app2-Especialidad Tecnico en Programacion</name>
 
 <description>
- Aplicacion que muestra informacion sobre la especialidad de Tecnico en programacion CBTis
+aplicacion que muestra informacion sobre la especialidad de Tecnico en programacion CBTis
 </description>
 
 <author href="https://build.phonegap.com" email="lidia23@gmail.com">
